@@ -22,6 +22,9 @@ This project provides an interactive console-based menu system to perform operat
   - Display
 - Sorting
   - Bubble Sort
+## Files
+- SQS.cpp: Contains the main codebase for the program.
+- README.md: This file, providing an overview and usage instructions.
 
 ## How to Use
 1.  Compile the program using a C++ compiler. For example: g++ main.cpp -o program
