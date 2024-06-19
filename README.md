@@ -27,6 +27,14 @@ This project provides an interactive console-based menu system to perform operat
 1.  Compile the program using a C++ compiler. For example: g++ main.cpp -o program
 2. Run the compiled executable: ./program
 3. Follow the on-screen instructions to navigate through the menu and perform stack, queue, or sorting operations.
+   
+## Contributors
+ishmail M. Kallon
+Mohamed Lahai Fornie
+Ibrahim E.N. Sheriff
+Momoh Kamara
 
+## License
+Limkokwing, 2024
 
 
